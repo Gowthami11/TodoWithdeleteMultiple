@@ -1,2 +1,0 @@
-# TodoWithdeleteMultiple
-Created with CodeSandbox
